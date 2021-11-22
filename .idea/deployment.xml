@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="rootime.ru">
+  <component name="PublishConfigData" serverName="rootime.ru" uploadOnCheckin="e82bf1b8-b576-44c5-8ef8-72815826b34e">
     <serverData>
       <paths name="rootime.ru">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="rootime.ru" />
   </component>
 </project>
