@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="rootime.ru" uploadOnCheckin="e82bf1b8-b576-44c5-8ef8-72815826b34e">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="rootime.ru" uploadOnCheckin="e82bf1b8-b576-44c5-8ef8-72815826b34e" autoUploadExternalChanges="true">
     <serverData>
       <paths name="rootime.ru">
         <serverdata>
@@ -11,5 +11,6 @@
       </paths>
     </serverData>
     <option name="myUploadOnCheckinName" value="rootime.ru" />
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8d8243e-2ebc-47e6-96a3-caf6e0b6c376" name="Default Changelist" comment="">
+    <list default="true" id="a8d8243e-2ebc-47e6-96a3-caf6e0b6c376" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -71,7 +71,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1294" />
+    <option name="width" value="1661" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -105,7 +105,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +133,7 @@
       <workItem from="1637618620521" duration="414000" />
       <workItem from="1637619048631" duration="689000" />
       <workItem from="1637621779263" duration="468000" />
-      <workItem from="1637789658031" duration="374000" />
+      <workItem from="1637789658031" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637619177965</created>
@@ -205,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1637622199540</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <created>1637790043170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637790043170</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1973000" />
+    <option name="totallyTimeSpent" value="3044000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -221,12 +228,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1661" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49781182" visible="true" weight="0.26580226" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49781182" visible="true" weight="0.20487195" />
       <window_info id="Structure" order="1" sideWeight="0.5021882" side_tool="true" weight="0.25364667" />
       <window_info id="Favorites" order="2" sideWeight="0.5021882" side_tool="true" weight="0.25364667" />
+      <window_info active="true" anchor="bottom" id="Messages" sideWeight="0.4996877" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -238,15 +246,15 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49756888" weight="0.32932165" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3380744" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003123" side_tool="true" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" sideWeight="0.49918962" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.6166937" weight="0.59956235" />
-      <window_info anchor="bottom" id="File Transfer" order="14" sideWeight="0.49918962" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="File Transfer" order="14" sideWeight="0.49843848" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.3298217" />
-      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.3298217" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.16989382" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
