@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8d8243e-2ebc-47e6-96a3-caf6e0b6c376" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,23 +31,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="272">
+              <caret line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;e82bf1b8-b576-44c5-8ef8-72815826b34e&gt;/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;e82bf1b8-b576-44c5-8ef8-72815826b34e&gt;/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -64,6 +65,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -78,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,7 +92,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +132,8 @@
       <workItem from="1632609886101" duration="28000" />
       <workItem from="1637618620521" duration="414000" />
       <workItem from="1637619048631" duration="689000" />
-      <workItem from="1637621779263" duration="259000" />
+      <workItem from="1637621779263" duration="468000" />
+      <workItem from="1637789658031" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637619177965</created>
@@ -167,11 +170,46 @@
       <option name="project" value="LOCAL" />
       <updated>1637621992484</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="storm">
+      <created>1637622087749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622087749</updated>
+    </task>
+    <task id="LOCAL-00007" summary="storm">
+      <created>1637622111286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622111286</updated>
+    </task>
+    <task id="LOCAL-00008" summary="storm">
+      <created>1637622127590</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622127590</updated>
+    </task>
+    <task id="LOCAL-00009" summary="storm2">
+      <created>1637622143175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622143175</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <created>1637622199540</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637622199540</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1390000" />
+    <option name="totallyTimeSpent" value="1973000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -186,7 +224,7 @@
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49781182" visible="true" weight="0.2617504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49781182" visible="true" weight="0.26580226" />
       <window_info id="Structure" order="1" sideWeight="0.5021882" side_tool="true" weight="0.25364667" />
       <window_info id="Favorites" order="2" sideWeight="0.5021882" side_tool="true" weight="0.25364667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -203,11 +241,12 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" sideWeight="0.49918962" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.6166937" weight="0.59956235" />
-      <window_info anchor="right" id="Remote Host" visible="true" weight="0.3298217" />
+      <window_info anchor="bottom" id="File Transfer" order="14" sideWeight="0.49918962" visible="true" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.3298217" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.3298217" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,13 +295,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="storm" />
-    <option name="LAST_COMMIT_MESSAGE" value="storm" />
+    <MESSAGE value="storm2" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="272">
+          <caret line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
