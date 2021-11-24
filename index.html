@@ -1,14 +1,17 @@
-Hello World$pdo = new PDO('mysql:host=localhost;dbname=prukon_gopet', 'prukon_gopet', 'Eld2TeBh');
-$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-$pdo->exec('SET NAMES "utf8"');
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+</head>
+<body>
 
 
-$sql_details = array(
-'user' => 'prukon_gopet',
-'pass' => 'Eld2TeBh',
-'db'   => 'prukon_gopet',
-'host' => 'localhost',
-'charset' => 'utf8'
-);
+<?php
 
-require( 'ssp.class.php' );
+include_once $_SERVER['DOCUMENT_ROOT'] . '/action/includes/head.php';
+
+?>
+</body>
+</html>
+
