@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8d8243e-2ebc-47e6-96a3-caf6e0b6c376" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/motd.legal-displayed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+    <list default="true" id="a8d8243e-2ebc-47e6-96a3-caf6e0b6c376" name="Default Changelist" comment="голый вп 2">
       <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +33,17 @@
     <favorites_list name="rootime.ru" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +61,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/config.php" />
+        <option value="&lt;b656b68d-dc59-4515-8e58-d0563caa35f9&gt;/parse.py" />
+        <option value="$PROJECT_DIR$/parse.py" />
       </list>
     </option>
   </component>
@@ -76,6 +84,15 @@
             <path>
               <item name="rootime.ru" type="b2602c69:ProjectViewProjectNode" />
               <item name="rootime.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rootime.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="rootime.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +143,11 @@
       <workItem from="1642107694229" duration="684000" />
       <workItem from="1642362244788" duration="617000" />
       <workItem from="1642716162661" duration="318000" />
-      <workItem from="1642716499959" duration="191000" />
+      <workItem from="1642716499959" duration="3586000" />
+      <workItem from="1643232079782" duration="767000" />
+      <workItem from="1659268830005" duration="187000" />
+      <workItem from="1659269028604" duration="29000" />
+      <workItem from="1659269067742" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637619177965</created>
@@ -226,11 +247,18 @@
       <option name="project" value="LOCAL" />
       <updated>1642107741629</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="голый WP">
+      <created>1642716894579</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642716894579</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7123000" />
+    <option name="totallyTimeSpent" value="11578000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -243,8 +271,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49781182" visible="true" weight="0.28200972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49781182" visible="true" weight="0.3063209" />
       <window_info id="Structure" order="1" sideWeight="0.5021882" side_tool="true" weight="0.25364667" />
       <window_info id="Favorites" order="2" sideWeight="0.5021882" side_tool="true" weight="0.25364667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,16 +287,16 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49756888" weight="0.32932165" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3380744" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5032415" side_tool="true" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50567263" side_tool="true" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" sideWeight="0.49918962" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.6166937" weight="0.59956235" />
-      <window_info anchor="bottom" id="File Transfer" order="14" sideWeight="0.49675852" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="File Transfer" order="14" sideWeight="0.4943274" visible="true" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="Messages" order="15" sideWeight="0.4996877" visible="true" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.3298217" />
-      <window_info active="true" anchor="right" id="Remote Host" order="4" visible="true" weight="0.22042139" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.22042139" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,17 +349,20 @@
     <MESSAGE value="test" />
     <MESSAGE value="БД" />
     <MESSAGE value="авторизация" />
-    <option name="LAST_COMMIT_MESSAGE" value="авторизация" />
+    <MESSAGE value="голый WP" />
+    <MESSAGE value="голый вп 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="голый вп 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/config.php" />
+    <entry file="file://$PROJECT_DIR$/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.php" />
   </component>
 </project>
